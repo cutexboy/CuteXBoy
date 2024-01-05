@@ -1,3 +1,7 @@
+[![GIF](https://github.com/CuteXBoy/CuteXBoy/blob/main/CuteXBoy.gif)](https://github.com/CuteXBoy)
+   [![ᴘᴍʙᴏᴛ](https://github-stats-alpha.vercel.app/api?username=CuteXBoy "CuteXBoy")](https://github-stats-alpha.vercel.app/api?username=CuteXBoy "CuteXBoy")
+
+
 <img src="https://github.com/CuteXBoy/CuteXoy/blob/master/resources/hr.gif"/>](https://github.com/CuteXBoy)
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💕+ᴄᴜᴛᴇ+x+ʙᴏʏ+✨">
 
