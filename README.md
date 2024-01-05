@@ -17,9 +17,9 @@
 <h1> <img src="https://telegra.ph/file/a22553440718f4af47872.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class AMBOT():
+class PMBOT():
     def __init__(self):
-        self.name = ['AbhiModszYT]
+        self.name = ['CuteXBoy']
         self.country = ['Nepal']
         self.language = ['हिंदी', 'Bengali', 'English']
     def programming_languages(self):
