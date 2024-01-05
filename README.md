@@ -1,4 +1,5 @@
-<img src="https://github.com/CuteXBoy/CuteXoy/blob/master/resources/hr.gif"/>](https://github.com/AbhiModszYT)
+<img src="https://github.com/CuteXBoy/CuteXoy/blob/master/resources/hr.gif"/>](https://github.com/CuteXBoy)
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💕+ᴄᴜᴛᴇ+x+ʙᴏʏ+✨">
 
 <h1> <img src="https://telegra.ph/file/fc1863bf5363ad4283ed7.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs PMBOT </h1>
 <p align="center">
