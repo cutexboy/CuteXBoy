@@ -26,9 +26,6 @@ You can click the Preview link to take a look at your changes.
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuteXBoy&show_icons=true&locale=en&layout=compact" alt="CuteXBoy" /></p>
 
 
- -->    <img align="middle" src="https://profile-counter.glitch.me/CuteXBoy/count.svg" />
-</p>
-
 [<img src="https://github.com/CuteXBoy/CuteXBoy/blob/master/resources/hr.gif"/>](https://github.com/CuteXBoy)
 
 <p align="center">
