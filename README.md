@@ -8,6 +8,24 @@
 <h1> <img src="https://telegra.ph/file/fc1863bf5363ad4283ed7.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs PMBOT </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
+
+   <!--
+**CuteXBoy/CuteXBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/CuteXBoy/count.svg" />
+</p>
+<!---
+CuteXBoy/CuteXBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuteXBoy&show_icons=true&locale=en&layout=compact" alt="CuteXBoy" /></p>
+
+
  -->    <img align="middle" src="https://profile-counter.glitch.me/CuteXBoy/count.svg" />
 </p>
 
